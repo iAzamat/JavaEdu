@@ -1,4 +1,4 @@
-package Homeworks.Java02;
+package Homeworks.Java02.s2;
 
 /*
 
