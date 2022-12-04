@@ -1,5 +1,9 @@
 package Seminars.Java05;
 
+/*
+https://leetcode.com/problems/contains-duplicate/
+ */
+
 import java.util.HashSet;
 import java.util.Set;
 
